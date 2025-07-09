@@ -55,7 +55,7 @@ Olá, mundo! Sou um desenvolvedor front-end com experiência prática em **HTML*
 </p>
 
 ---
-## 🐍 my contributions
+## 🐍 my contributions (commits)
 
 ![snake gif](https://github.com/guilhermehgz/guilhermehgz/blob/output/github-contribution-grid-snake.svg)
 
