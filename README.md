@@ -57,7 +57,8 @@ Olá, mundo! Sou um desenvolvedor front-end com experiência prática em **HTML*
 ---
 ## 🐍 my contributions (commits)
 
-![Snake animation](https://raw.githubusercontent.com/guilhermehgz/guilhermehgz/output/github-contribution-grid-snake-redgreen.svg)
+![GitHub Snake](https://raw.githubusercontent.com/guilhermehgz/guilhermehgz/main/snake.svg)
+
 
 
 ---
