@@ -57,7 +57,12 @@ Olá, mundo! Sou um desenvolvedor front-end com experiência prática em **HTML*
 ---
 ## 🐍 my contributions (commits)
 
-![GitHub Snake](https://raw.githubusercontent.com/guilhermehgz/guilhermehgz/main/snake.svg)
+<picture align="center"> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermehgz/guilhermehgz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermehgz/guilhermehgz/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermehgz/guilhermehgz/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 
