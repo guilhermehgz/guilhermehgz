@@ -16,15 +16,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Gerar snake personalizada (tema escuro)
+      - name: Gerar cobrinha estilo verde/vermelho
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-night.svg?color_snake=#8e44ad,#3498db,#1abc9c&color_dots=#0d1117,#21262d,#30363d,#8b949e
+            dist/github-contribution-grid-snake-redgreen.svg?color_snake=#ff0000,#cc0000,#990000&color_dots=#0d1117,#004d00,#007f00,#00cc00
 
-      - name: Enviar arquivos para o branch de saída
+      - name: Enviar SVGs para o branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
