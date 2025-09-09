@@ -79,7 +79,8 @@ Olá, mundo! Sou um desenvolvedor front-end com experiência prática em **HTML*
 
 ### 📂 Portfólio
 
-⚙️ Em desenvolvimento: *Projetos pessoais e estudos em HTML, CSS, JS, Node.js, Tailwind e mais.*
+⚙️ (https://guilhermehgz.github.io/portifolio/) 
+*Projetos pessoais e estudos em HTML, CSS, JS, Node.js, Tailwind e mais.*
 
 ---
 
