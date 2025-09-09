@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 ---
-Olá, mundo! Sou um desenvolvedor front-end com experiência prática em **HTML**, **CSS**, **JavaScript** e **Node.js**. Também estou sempre aprimorando minhas habilidades em frameworks modernos, design de interfaces e desenvolvimento web responsivo.
+Olá, mundo! Sou um desenvolvedor front-end com experiência prática em **HTML**, **CSS**, **JavaScript**, **Node.js** e **python**. Também estou sempre aprimorando minhas habilidades em frameworks modernos, design de interfaces e desenvolvimento web responsivo.
 
 🔗 **Conecte-se comigo:**
 
